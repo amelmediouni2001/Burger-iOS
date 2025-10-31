@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		B036C7832EB55D2E00870F47 /* OrderViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = B036C7822EB55D2E00870F47 /* OrderViewController.swift */; };
 		B03CD0632EB3CBE100355B0C /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = B03CD0622EB3CBE100355B0C /* AppDelegate.swift */; };
 		B03CD0652EB3CBE100355B0C /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = B03CD0642EB3CBE100355B0C /* SceneDelegate.swift */; };
 		B03CD0672EB3CBE100355B0C /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = B03CD0662EB3CBE100355B0C /* ViewController.swift */; };
@@ -17,6 +18,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		B036C7822EB55D2E00870F47 /* OrderViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OrderViewController.swift; sourceTree = "<group>"; };
 		B03CD05F2EB3CBE100355B0C /* burger-revision.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "burger-revision.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		B03CD0622EB3CBE100355B0C /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		B03CD0642EB3CBE100355B0C /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -66,6 +68,7 @@
 				B03CD0702EB3CBE200355B0C /* LaunchScreen.storyboard */,
 				B03CD0732EB3CBE200355B0C /* Info.plist */,
 				B03CD06B2EB3CBE100355B0C /* burger_revision.xcdatamodeld */,
+				B036C7822EB55D2E00870F47 /* OrderViewController.swift */,
 			);
 			path = "burger-revision";
 			sourceTree = "<group>";
@@ -142,6 +145,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				B03CD0672EB3CBE100355B0C /* ViewController.swift in Sources */,
+				B036C7832EB55D2E00870F47 /* OrderViewController.swift in Sources */,
 				B03CD06D2EB3CBE100355B0C /* burger_revision.xcdatamodeld in Sources */,
 				B03CD0632EB3CBE100355B0C /* AppDelegate.swift in Sources */,
 				B03CD0652EB3CBE100355B0C /* SceneDelegate.swift in Sources */,
